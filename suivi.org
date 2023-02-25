@@ -1,0 +1,70 @@
+* 6/10/2022
+
+Lim;Julien
+Lin;Michel
+Tiberghien;Corentin
+Marques-Martins;Mattyas
+Grangean;Justin
+
+* 20/10/2022
+
+surname; name; opened issues; closed issues; working on
+Lim;Julien; 21; 9, 2, 21, 25; --
+Lin;Michel; 3, 19, 26, 27; 1, 3; 19, 26
+Tiberghien;Corentin; 14, 15, 10; 10, 15; -- 
+Marques-Martins;Mattyas; 22, 25, 12, 13, 23, 1, 2, 9, 8; 14, 22, 8; --
+Grangean;Justin; --; --; 13
+
+
+** TODO 
+** Prepare a "cahier de charges"
+** Improve organisation of options and labels in GUI
+** DONE Leaderboard
+
+
+
+
+* 10/11/2022
+
+surname; name; opened issues; closed issues; working on
+Lim;Julien; 30, 44; 37, 30, 35; 44
+Lin;Michel; 39, 37, 33, 32, 41, 42, 43; 39, 10, 19; 41, 43 
+Tiberghien;Corentin; 28, 29, 40; 10, 40; 18 
+Marques-Martins;Mattyas; 31, 34, 35, 36, 38; 31, 28; 13
+Grangean;Justin; ABI
+
+
+** TODO 
+** DONE Prepare a "cahier de charges", and enumarete items in cahier de charges
+** DONE Add functionality to pause game
+** DONE Improve organisation of options and labels in GUI
+
+
+
+* 24/11/2022
+
+surname; name; opened issues; closed issues; working on
+Lim;Julien;53,52,50,44;53,52,44;--
+Lin;Michel;61,58,51,43,42,41;61,58,51,43,42,41;--
+Tiberghien;Corentin;47,54,55,56,58;57,56;55,54
+Marques-Martins;Mattyas;59,48,49,60;59,33;60
+Grangean;Justin;--;--;50
+
+** TODO 
+*** DONE Ecrire / lire toutes configs dans un fichier de configuration
+*** NOT DONE Associer chaque bouton du GUI à une touche
+*** NOT DONE Indiquer carrement une touche pour afficher un écran d'aide,
+*** qui indique toutes les touches et leurs fonctions
+*** NOT DONE Bouger le Pane avec les parametrages du jeu dans les options
+*** (rationale: "Start" doit demarrer le jeu sans passer par des parametrages)
+
+
+* 08/12/2022
+
+
+surname; name; opened issues; closed issues; working on
+Lim;Julien;
+Lin;Michel;
+Tiberghien;Corentin;
+Marques-Martins;Mattyas;
+Grangean;Justin;

@@ -1,0 +1,132 @@
+Suivi avancé sur le projet Pong :
+Avant Tp1 (22/09) :
+
+-On a constitué l’équipe et ajouté les différents membres à un groupe GitLab.
+
+Tp1 :
+-On a tous réussi a lancer le programme et découverte des différentes fonctionnalités de git.
+
+Semaine (26/09-02/10) :
+
+-Résolution des différents problèmes lié a git et/ou aux ordinateurs des membres du groupe.
+-On a désigné le chef d’équipe.
+
+Réunion 25/09 :
+
+-On a fait une réunion pour se mettre en communs et décider qui ferait quoi dans la semaine d’après.
+
+Analyse à faire :
+
+-Corentin Analyse de court.java et app.java
+-Michel Analyse Gameview.java (modifié)
+-Julien RacketController.java et historique
+-Justin analyse des issues origine (modifié)
+-Mattyas analyse les read me (+si tu peux les recréer les issues pour nous)
+
+Parties a coder pour les semaine du 26/09 au 06/09:
+
+-Julien menu de démarrage
+-Michel le bot
+-Mattyas Score + fin de partie (eventuellement timer)
+-Corentin mettre un fond au jeu (un truc simple un court de tennis si tu y arrives)
+-Justin vélocité de la raquette
+
+Réunion 02/10 :
+
+-Répartition des tâches pour la semaine + débrief des tâches en cours. 
+
+Tâche a effectuer pour la semaine du 03/09 au 09/09 :
+
+Julien Factorisation des joueurs + gère le backlog
+Michel Implémentation du bot avec un bouton dans le menu
+Mattyas Tableau des highscores + fichier de ce tableau
+Corentin Implémentation de plusieurs skin des raquettes et des balles selectionnable depuis le menu + creation des issues
+Justin Implémentation de plusieurs skin de terrains selectionnable depuis le menu
+
+TP2 06/10 :
+
+Discussion de groupe avec le professeur. 
+Choses a faires pour dans 2 semaines : 
+- Faire un cahier des charges
+- Mettre une version qui marche a tester pour le professeur dans la branche master
+
+Reunion 09/10 :
+
+-Debrief de ce que l'on va mettre dans le cahier des charges.
+-Debrief des tâches en cours.
+
+Tâche a effectuer pour la semaine du 10/10 (A voir pour etendre d'une semaine le temps) :
+
+-Justin Sons + Cahier des charges
+-Mattyas Tableau des highscores + fichier de ce tableau
+-Corentin Selection de la taille des raquettes + vitesse croissante de la balle
+-Julien Fichier parametre
+-Michel Coups speciaux + Selecion de coups de spéciaux 
+
+16/10 : 
+Deadline etendu pour une semaine
+
+TP3 20/10 :
+
+Discussion de groupe avec le professeur.
+Chose a faire pour après les vacances :
+ - Refaire le cahier des charges
+ - Ajouter une fonction de pause dans le jeu
+ - Améliorer l'organisation des boutons et des labels 
+
+Reunion 27/10 :
+Discussion sur le cahier des charges et distribtution des tâches de la semaine d'après les vacances
+
+Tâches à effectuer pour la semaine du 07/11 : 
+
+-Mattyas Vitesse de la balle augmentant à chaque rebond sur les raquettes et peut etre les sons
+-Michel regler les problèmes de merge avec ses coups spéciaux + clean un peu le code
+-Corentin Rebond plus aléatoire et moins linéaire
+-Julien Réorganisation des menu
+-Justin Absent de la réunion
+
+TP4 10/11 :
+
+Discussion de groupe avec le professeur.
+Chose a faire pour dans 2 semaines :
+ - Mettre des touches pour chaque bouton.
+ - (a voir)
+ 
+Reunion 13/11 :
+ 
+Distribution des tâches de la semaine.
+Discussion de la version finale du jeu.
+
+Tâches a effectuer pour la semaine du 14/11 :
+
+-Mattyas Finir le son + implémenter le bouton pause et les reglages raquette dans la version finale
+-Michel Continuer le css des nouvelles implémentations
+-Corentin Alléger les classes gameview et court + implémenter plusieurs niveaux de bot
+-Julien Implémenter de nouveaux coups spéciaux
+-Justin Ajouter des touches pour chaque bouton
+
+Reunion 26/11 :
+
+Distribution des tâche de la semaine.
+
+Tâches a effectuer pour la semaine du 28/11 :
+
+-Mattyas pouvoir sauvegarder et reutiliser les parametres de la partie
+-Michel Css + niveaux des bot
+-Corentin Ajout option collision non centrée
+-Julien Deplacer menu graphismee + ajout de rebonds aléatoire 
+-Justin Ajouter du texte qui affiche la touche correspondant aux boutons
+
+Reunion 03/12 :
+
+Discussion des dernières modifications a faire sur le jeu.
+Distributions des taches restantes avant la fin du développement.
+
+Tâches à effectuer pour la semaine du 05/12 :
+
+-Commun: Réglages des derniers bug
+-Justin Ajouter du texte qui affiche la touche correspondant aux boutons
+-Julien Bouger les boutons pause et quitter a la fin d'une partie
+-Mattyas pouvoir sauvegarder le background dans le fichier de parametre
+-Michel Css
+-Corentin pas d'autre tâches pour l'instant

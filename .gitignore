@@ -1,0 +1,12 @@
+/pong/.gradle/7.5.1/checksums/checksums.lock
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+build/classes/java/main/*
+/build/tmp/compileJava/*
+/.gradle/*
+build/*
+/.idea/inspectionProfiles/
+/.idea/uiDesigner.xml

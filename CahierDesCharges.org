@@ -1,0 +1,86 @@
+* Cahier des charges PONG
+** Descriptions du jeu
+*** Principe de jeu
+Nous voulons un jeu qui se joue seule ou a deux. Le principe serait de faire un jeu qui se joue vite avec des partie modifiable tres rapidement.
+Nous partirons de la base du programme que nous a fournit Aldric Degorre sur le quelle on avait deux raquettes qui se déplaçaient sur un axe Y et la balle qui rebondissait,
+sur les bord et les raquette jusqu'à ce qu'un joueur ne fasse pas rebondir la balle sur sa raquette. Le jeu se remettait à 0 en renvoyant la balle au même endroit et
+en re-plaçant les raquettes tout le temps au meme endroit. Ainsi de suite en boucle.
+*** Idée générale des menus
+Un menu principal avec le nom du jeu, trois boutons principales : Play; Classement; Quit.
+Deux boutons plus petit un pour les options, un pour le menu d'aide.
+Un Secret ou il faut taper au clavier le nom du groupe de développeur/nom du jeu pour afficher les crédits.
+**** Bouton play  
+Le bouton ouvre un menu qui propose le choix de jouer à trois modes de jeux: classic; infini; challenge.
+***** Suite de menu pour les partie
+On sélectionne la couleur des raquettes, de la balle et sur quel terrain jouer.
+Suivant le mode de jeu on peut sélectionner la taille des raquettes et de la balle et sa vitesse.
+Puis on choisit son coup spécial au choix entre 4 différents, selon le mode on choisit le nombre de point et quelle joueur est un ordinateur.
+****** Classic 
+Mode de jeu avec un nombre de point à marquer pour gagner contre un joueur ou un ordinateur. Pour gagner il faut renvoyer la balle a l'aide de la raquette dans le camp 
+adverse, sans qu'il ne réussisse à la renvoyer. On peut utiliser des coups spéciaux au bout de trois rebonds sur notre raquette.
+****** Infini
+Même principe que le mode classic sauf que le mode n'a pas de fin.
+****** Challenge
+Même principe que les deux précédant avec comme differance que ce mode ne se joue qu'à un joueur contre un ordinateur, le but est de survivre et de marquer le plus de points 
+en 30 secondes. Le nombre de point effectuer durant la parti est sauvable.
+**** Bouton classement
+Ouvre un menu qui montre le classement des noms et du nombre de points des anciens joueur ayant sauvegardé leur score du mode challenge.
+**** Bouton Option
+***** Contrôle
+Dans ce menu on peut changer les touches des deux joueurs. On peut y changer la touche pour monter la raquette, celle pour descendre la raquette, la touche pour mettre en 
+pause la partie et celle pour déclencher le coup spécial, les touches sont sauvable et sont gardées en mémoire pour les prochaines parties.
+***** Son
+Dans ce menu on peut régler le niveau sonore des bruitages et des musiques. Ces paramètres sont sauvegardés en mémoire.
+***** Skin
+Dans ce menu on peut changer la couleur des raquettes et de la balles. Ces paramètres sont sauvegardés en mémoire.
+**** Bouton aide
+Ce bouton ouvre une page affichant un long texte correspondant à tout ce qui est nécessaire de savoir sur le jeu, 
+l'équivalent d'un mode d'emploi. Il y a 3 pages au total, il suffit d'appuyer sur la touche correspondante à la
+fleche en bas a droite de la fenêtre pour voir les pages suivantes.
+*** Style graphique & sonore
+Pour les décisions graphique nous avons décidé de choisir des fonds dans un style cyberpunk/néon/espace.
+Pour les musique nous avons décider de sélectionner des musique style cyberpunk/Techno/Néo-Futuriste
+Pour les bruitages nous avons sélectionner des bruitages
+**** Inspiration principal
+On a pour inspiration le jeu Super smash bros dans l'aspect de la customisation des parties.
+ 
+** Liste des ajouts
+1) Un menu pour faciliter la navigation
+
+2) Rendre le jeu plus plaisant en améliorant la physique de la balle 
+
+3) Donner un sens au jeu avec un nombre de points et une fin de partie
+
+4) Jouer seul contre l'ordinateur
+
+5) Rendre le jeu plus attractif avec des visuels dans le jeu
+   + Donner la possibilité de changer les couleurs des raquettes et de la balle
+
+6) Ajout d'intérêts avec un mode semi-compétitif avec la possibilité de regarder et sauvegarder les statistiques
+   + Mode de jeu compétitif avec des règles fixes (le joueur doit marquer le plus de points en 30 secondes)
+
+7) Donner la liberté au joueur de changer les touches pour un confort de jeu
+
+8) Ajout de coups spéciaux pour varier les parties et donner de la re-jouabilité
+
+9) Ajout de sons/musique au jeu (rebonds) pour ajouter de l'immersion
+
+10) Ajout de différents modes de jeu (balle collant aux raquettes / infini / aventure / mode Challenge) pour varier les parties pour éviter les répétitions, rendre le jeu moins redondants
+
+11) Vitesse de la balle augmentant à chaque rebond sur les raquettes pour augmenter la difficulté
+
+12) Pouvoir choisir la taille de la balle / raquette dans les paramètres, pour permettre au joueur de personnaliser les parties
+
+13) Pouvoir gérer les sons / musiques dans les paramètres , pour laisser le joueur choisir le volume de la musique et des bruitages
+
+14) Pouvoir mettre en pause le jeu pour laisser le joueur se reposer
+
+15) Récompenser les joueurs qui se sont renseigné sur l'équipe de développement (Easter Egg dans le menu)
+
+16) Laisser la possibilité de changer les graphisme du jeu pour le rendre moins gourmand en ressource et accessible au maximum d'ordinateur
+
+17) Pouvoir sauvegarder la configuration d'une partie pour ne pas avoir a le refaire
+
+18) Ajout d'un menu d'aide pour guider les joueurs débutants
+
+19) Ajout de la sauvegarde des parametre d'une partie pour éviter au joueurs de refaire toute leur configuration à chaque fois
